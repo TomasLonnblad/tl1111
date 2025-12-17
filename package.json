@@ -10,6 +10,7 @@
     "registry:build": "tsx ./scripts/build-registry.ts"
   },
   "dependencies": {
+    "@netlify/plugin-nextjs": "^5.15.2",
     "@radix-ui/react-avatar": "^1.0.4",
     "@radix-ui/react-collapsible": "^1.0.3",
     "@radix-ui/react-dialog": "^1.0.5",
